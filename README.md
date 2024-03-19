@@ -1,1 +1,1 @@
-The deployed url of the project : https://bookstorefrontend-z7m4.onrender.com
+The Deployed url of the project : https://bookstorefrontend-z7m4.onrender.com
